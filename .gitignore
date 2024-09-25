@@ -1,0 +1,22 @@
+# Ignore composer dependencies
+/vendor/
+/node_modules/
+
+# Ignore generated files
+/pub/media/*
+/pub/static/*
+/var/*
+
+# Ignore configuration files
+/app/etc/env.php
+/app/etc/config.php
+
+# Ignore IDE files
+/.idea/
+/.vscode/
+
+# Ignore logs
+/var/log/*
+
+# Ignore cache
+/var/cache/*
