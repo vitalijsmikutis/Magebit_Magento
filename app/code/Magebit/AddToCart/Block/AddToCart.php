@@ -16,6 +16,7 @@
  */
 
 namespace Magebit\AddToCart\Block;
+
 use Magento\Catalog\Block\Product\AbstractProduct;
 use Magento\Catalog\Api\ProductRepositoryInterface;
 
